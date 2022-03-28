@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           My first deployed project.
+          Test new commit deploy.
         </p>
         <a
           className="App-link"
